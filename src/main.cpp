@@ -12,7 +12,7 @@
 void classifyCustomReview(Model& model);
 void saveModel(Model& model);
 
-// The only reason these 2 functions exist is because I need to use cin.ignore() only in the 2nd function
+// The only reason these 2 functions exist is because I need to use cin.ignore() only in the 2nd function =>
 void handleTestingWithPreTrainedModel(Input& testingInput);
 void handleTestingWithNewlyTrainedModel(Input& testingInput);
 
