@@ -29,3 +29,5 @@ The model also uses additional features to optimize the gradient descent algorit
 4) Removal of [stopwords](https://en.wikipedia.org/wiki/Stop_words)
 
 All these additional features can be disabled/enabled or modified by making changes to the Model.h file.
+
+I would also like to apologize for the lack of git commit history. Unfortunately, I had to do a force push which removed all my prior commit history.
